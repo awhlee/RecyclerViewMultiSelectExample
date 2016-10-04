@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="astroBlue">#2EB8E6</color>
+    <color name="astroBlack50">#F4F5F6</color>
+    <color name="astroViolet">#894BA6</color>
+</resources>
